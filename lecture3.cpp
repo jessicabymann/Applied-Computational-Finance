@@ -57,3 +57,4 @@ double delta(double u)
     double cdf = 0.5 * erfc(-u / sqrt(2));
     return cdf ;
 }
+
