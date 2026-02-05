@@ -3,6 +3,8 @@
 #include<cmath>
 using namespace std;
 
+int x = 1 
+
 double CDF(double); // function declaration – takes 1 real i.e. RV X
 double delta(double);
 
